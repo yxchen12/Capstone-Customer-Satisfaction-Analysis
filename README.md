@@ -5,4 +5,4 @@ Dataset from Kaggle: https://www.kaggle.com/datasets/sjleshrac/airlines-customer
 
 This analysis is about an airline customer satisfaction. Python is applied for exploring dataset and training various prediction models.
 
-Notes: if code did not appear, saying "The notebook took too long to render.", please copy the site to https://nbviewer.org/
+Notes: if code did not appear, or saying "The notebook took too long to render.", please copy the site to https://nbviewer.org/ to see.
